@@ -1,0 +1,16 @@
+{
+  "name": "lorem-ipsum-cli",
+  "version": "1.0.0",
+  "description": "Lorem ipsum paragraphs and sentences from your terminal.",
+  "main": "src/index.js",
+  "author": "Cem Ünalan",
+  "license": "MIT",
+  "bin": {
+    "lorem": "src/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
