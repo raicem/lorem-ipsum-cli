@@ -1,7 +1,7 @@
 {
   "name": "lorem-ipsum-cli",
   "version": "1.0.0",
-  "description": "Lorem ipsum paragraphs and sentences from your terminal.",
+  "description": "Generate lorem ipsum paragraphs and sentences in your terminal.",
   "main": "src/index.js",
   "author": "Cem Ünalan",
   "license": "MIT",
